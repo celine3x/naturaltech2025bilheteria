@@ -2,7 +2,6 @@
 <html lang="pt">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Naturaltech & Bio Brazil Fair 2025 - Bilheteria</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
